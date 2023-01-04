@@ -1,6 +1,8 @@
 import pickle
 import os
 import numpy as np
+from keras.utils import load_img, img_to_array
+
 
 print(pickle.format_version)
 img = load_img('./IMG_1306.jpg', target_size=(100, 100))
