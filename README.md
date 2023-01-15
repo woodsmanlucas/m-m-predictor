@@ -1,5 +1,5 @@
 # m-m-predictor
 
-![M and M prediction](/Outputs that almost worked/output_full_size.png)
+![M and M prediction](current_best_ouput.png)
 
 This is my current best output for the project
